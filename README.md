@@ -13,7 +13,10 @@ This project provides a simple FastAPI-based API for predicting the next word in
 │   ├── model.py
 │   ├── api.py
 │   └── predict.py
-└── main.py
+├── main.py
+├── README.md
+└── requirements.txt
+
 
 ```
 
@@ -22,6 +25,8 @@ This project provides a simple FastAPI-based API for predicting the next word in
 * **`src/utils.py`:**  Provides utility functions for preprocessing text, encoding and decoding with the tokenizer, and generating the next word prediction.
 * **`src/predict.py`:**  A script demonstrating how to interact with the API.
 * **`main.py`:**  The main entry point for running the FastAPI application using uvicorn.
+* **`README.md`:** Provides an overview and instructions for setting up and running the project.
+* **`requirements.txt`:** Lists the dependencies required to run the project.
 
 ## Setup
 
