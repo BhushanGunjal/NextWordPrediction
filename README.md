@@ -3,6 +3,8 @@
 
 This project provides a simple FastAPI-based API for predicting the next word in a sequence using a pre-trained GPT-2 model.
 
+---
+
 ## Project Structure
 
 ```
